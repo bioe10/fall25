@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: BioE10
 description: Introduction to Biomedicine for Engineers
-author: Iain Clark
+author: Iain Clark, Coco Shen
 baseurl: '/fall23' # the subpath of your site, e.g. /blog
 url: 'https://bioe10.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
