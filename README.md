@@ -24,4 +24,4 @@ seo:
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
->>>>>>> master
+
